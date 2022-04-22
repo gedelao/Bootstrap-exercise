@@ -1,0 +1,56 @@
+.top-page {
+    border-style: double;
+    padding-left: 35%;
+    line-height: 2em;
+    background-color: orange;
+    border-width: 90%;
+}
+
+.title-name {
+    color: yellow;
+    font-size: 50px;
+    margin-right: 150px;
+    font-family: Lucida;
+}
+
+.title-descript {
+    font-size: 20px;
+    padding-left: 7%;
+    color: orangered;
+    font-family: georgia;
+}
+
+.form-inline {
+    padding-left: 500px;
+    padding-bottom: 30px;
+}
+/* Header */
+
+.list-group {
+    width: 250px;
+    vertical-align: top;
+    background-color: black;
+    line-height: 4em;
+    font-size: 20px;
+}
+
+.list-group a {
+    text-decoration: none;
+}
+
+.list-group li {
+    color: white;
+    list-style-type: none;
+
+}
+
+/* Left side options */
+
+body {
+   background: url("https://deih43ym53wif.cloudfront.net/cao-lau-vietnam-shutterstock_1210948300_056c01187b.jpeg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}   
+
